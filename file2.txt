@@ -1,0 +1,1 @@
+Creamos fichero file2.txt para la nueva_rama
